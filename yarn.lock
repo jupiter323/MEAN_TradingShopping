@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@agm/core@1.2.0":
+"@agm/core@1.0.0-beta.7":
   version "1.0.0-beta.7"
   resolved "https://registry.yarnpkg.com/@agm/core/-/core-1.0.0-beta.7.tgz#5ceb024a7ffaa6a1648f010392684c06905ef656"
   integrity sha512-NXJqB2wCahWGSqvQazLHbVrg3Dhg5zTdhG9yP7EVVGfIft5lbY83KLVpbYFeVI/l+ggeJWAC9nVUr7CeDS96uQ==
@@ -1202,12 +1202,10 @@ bootstrap-rtl@3.3.4:
   dependencies:
     bootstrap "^3.3.4"
 
-bootstrap-select@1.12.2:
-  version "1.12.2"
-  resolved "https://registry.yarnpkg.com/bootstrap-select/-/bootstrap-select-1.12.2.tgz#58d095b3fd584b31443866fbe39b6fdd4e4e12a4"
-  integrity sha1-WNCVs/1YSzFEOGb745tv3U5OEqQ=
-  dependencies:
-    jquery ">=1.8"
+bootstrap-select@1.13.6:
+  version "1.13.6"
+  resolved "https://registry.yarnpkg.com/bootstrap-select/-/bootstrap-select-1.13.6.tgz#dc41f8a7385ab4e385562b400d4cf2422f5ef852"
+  integrity sha512-MsOZjYVv0jjHOCUV6CG3J8MSsosrKL8MlA8DacMhMqFq43tTxMjjd7Czo5a/upKPNHW6asFq29oyKJTrPva6FQ==
 
 bootstrap-tagsinput@0.7.1:
   version "0.7.1"
@@ -4149,7 +4147,7 @@ jquery-validation@1.17.0:
   dependencies:
     jquery "^1.7 || ^2.0 || ^3.1"
 
-"jquery@2 - 3", jquery@>=1.7, jquery@>=1.8, "jquery@^1.7 || ^2.0 || ^3.1":
+"jquery@2 - 3", jquery@>=1.7, "jquery@^1.7 || ^2.0 || ^3.1":
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
   integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
